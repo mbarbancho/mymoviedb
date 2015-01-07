@@ -11,3 +11,6 @@ composer.lock
 
 # Omit Session Data
 /app/storage/*.*
+
+mymoviedb
+mymoviedb.pub
