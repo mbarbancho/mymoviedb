@@ -1,0 +1,13 @@
+/bootstrap/compiled.php
+/vendor
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+
+#Omit composer 
+composer.phar
+composer.lock
+
+# Omit Session Data
+/app/storage/*.*
